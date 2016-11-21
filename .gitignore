@@ -1,0 +1,4 @@
+.work
+cassandra.*.tar
+Dockerfile
+Dockerfile-e

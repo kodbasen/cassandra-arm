@@ -1,0 +1,7 @@
+FROM scratch
+
+ENV version=cassandra.version
+
+ADD cassandra.dist.file /
+
+ADD cassandra.etc.dir /etc/cassandra
